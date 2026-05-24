@@ -1,0 +1,957 @@
+
+
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+html, body {
+  overflow-x: hidden;
+}
+
+.container1{
+
+    width: 80%;
+    margin: 0 auto;
+
+   padding-bottom: 30px;
+padding-top: 30px;
+     }
+
+    
+
+ .clear-fix{
+    clear: both;}
+
+body{
+    background-color: #FAFBFC;
+}
+
+
+.hero_content{
+ font-family:Arial, Helvetica, sans-serif;
+font-size: 32px;
+
+width: 50%;
+
+
+font-weight: 0;
+
+color: #101828;
+
+margin-left: 1%;
+
+float: left;
+
+}
+
+
+.hero_image{
+
+ width: 31%;
+ 
+float:left;
+
+margin-left: 6%;
+
+margin-top: 5%;
+   
+
+}
+.img{
+    border-radius: 20px;
+}
+
+
+
+
+.hero_content p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.666);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.btn-primary{
+    background-color: black;
+    color: white;
+    width: 35%;
+    padding: 20px 30px;
+    border-radius: 10px;;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     font-size: 55%;
+         cursor: pointer;
+
+    }
+
+.btn-secondary{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.99);
+    width: 25%;
+    padding: 20px 15px;
+    border-radius: 5px;
+    font-size: 17px;
+    border: 1px solid grey;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+
+/* start why choose us */
+
+.container2{
+   width: 90%; 
+   padding: 30px 30px;
+   margin:  0 auto;
+    border-top: #dbe3fe;
+   
+    background-color :#F9FAFB ;
+   
+   
+}
+
+.clear-fix{clear: both;}
+
+.title{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    color: #101828;
+}
+.paragraph{
+   text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+width: auto;
+color:#654A55;
+
+}
+
+
+/* benefit cards */
+/* start card 3 */
+
+.card1{
+    background-color: #DBEAFE;  
+    
+ 
+   width: 30%;
+   height: 265.85px;
+   padding: 25px 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+float: left;
+margin-right: 2%;
+
+border-radius: 16px;
+vertical-align: middle;
+box-sizing: border-box;
+
+} 
+
+.benefit-cards.h3{
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+.benefit-cards p{
+   
+    color: #533641;
+    font-weight: 400;
+    font-family: system-ui, -apple-system,;
+    margin-top: 5px;
+  }
+    
+
+
+.parent1{
+        width: 60px;
+    height: 60px;
+  margin-left:auto ;
+  margin-right: auto;
+  overflow: auto;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  background-color: #155DFC;
+}
+.child1{
+        background-color: white;
+    width: 30px;
+    height: 30px;
+    border: radius top 4px;
+    margin-left:auto ;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+
+/* end of card 1 */
+
+/* .card 2 */
+ .card2{
+  width: 30%;
+  height: 265.85px;
+  padding: 32px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    background-color: #D0FAE5;
+  
+    border-radius :16px;
+    float:left;  
+   margin-right: 2%;
+    vertical-align: middle;
+box-sizing: border-box;
+
+
+
+  } 
+
+
+.parent2{
+        width: 60px;
+    height: 60px;
+  margin-left:auto ;
+  margin-right: auto;
+  overflow: auto;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  background-color: #009966;
+
+
+}
+.child2{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border: radius top 4px;
+    margin-left:auto ;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+/* end card 2 */
+
+
+ 
+
+
+
+
+/* start cardddd 3 */ 
+.card3{
+
+width: 30%;
+padding: 25px;
+height: 265.85px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+
+    background-color:#F3E8FF;
+    border-radius: 16px;
+   vertical-align: middle;
+box-sizing: border-box;
+margin-right: 2%;
+
+} 
+
+.parent3{
+        width: 60px;
+    height: 60px;
+  margin-left:auto ;
+  margin-right: auto;
+  overflow: auto;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  background-color:#9810FA;
+
+}
+
+.child3{
+        width: 30px;
+    height: 30px;
+    border: radius top 4px;
+    margin-left:auto ;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  background-color:white ;
+}
+/* end card 3 */
+
+
+.more-benefits{
+  width: 100%;
+  margin-top: 5%;
+  margin-left: 10px;
+}
+
+.more-benefits .image{
+  float: left;
+  width: 50%;
+  border-radius: 4%;
+ padding: 32px;
+  margin-left: 50px;
+  box-sizing: border-box;
+}
+.img-benefits{
+  border-radius: 15px;
+ 
+ 
+ 
+}
+
+.content2 {
+  float: right;
+  font-family: system-ui,ui-sans-serif;
+font-size: 20px;
+color: #101828;
+margin-right: 40px;
+
+
+} 
+
+.section {
+  border-left: 4px solid black; 
+  padding-left: 25px;
+  height: 85px;
+  font-size: 16px;
+box-sizing: border-box;
+font-weight: 300;  
+}
+
+.bodi{
+  color: #654A55;
+}
+
+
+/* card 1 */
+.container3{
+  width: 80%;
+  margin: auto;
+  background-color:#F9FAFB;
+}
+
+.card11{
+
+
+ background-color: #ECFDF5;
+   display: inline-block;
+  width:40%
+;
+  vertical-align: middle;
+box-sizing: border-box;
+padding: 10px;
+border-radius: 10px;
+border-color: #A4F4CF;
+border-style: solid;
+
+
+}
+.review-profile .prof-img{
+  display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+}
+
+
+
+.review-item h5{
+  margin: 0;
+
+}
+
+
+.review-profile .prof-name{
+display: inline-block;
+}
+   .vip1{
+    border-radius: 50%;
+   }
+/* end of card 1 */
+
+/* start card 2 */
+ .card22 {
+
+  
+  background-color: #ECFDF5;
+   display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+box-sizing: border-box;
+padding: 32px;
+border-radius: 16px;
+ border-color:#A4F4CF;
+border-style: solid;
+}
+
+.vip2{
+  border-radius: 50%;
+}
+
+.review-item{
+    font-family: Arial, Helvetica, sans-serif;
+box-sizing: border-box;
+padding: 10px;
+  border-radius: 10px;
+  float: left;
+  width: 30%;
+  margin-right: 3%;
+ 
+  
+  
+}
+
+/* end card 2 */
+
+/* start card 3 */
+.card33{
+background-color:#FAF5FF ;
+ 
+  vertical-align: middle;
+  box-sizing: border-box;
+padding: 10px;
+border-style:solid;
+border-radius: 10px;
+border-color:#E9D4FF;
+
+border-style: solid ;
+}
+  
+
+.vip3{
+border-radius: 50%;
+}
+
+/* end card 3 */
+
+
+
+
+.statisticks{
+  background-color: #F1F5F9;
+  width: 80%;
+  border-radius: 15px;
+padding: 20px;
+margin-top: 80px;
+text-align: center;
+margin-left: 8%;
+
+}
+ .head{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+
+
+.statisticks .cairo{
+  font-weight: 200;
+  font-size: 15px;
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.number1{
+  float: left;
+ 
+width: 20%;
+margin-left: 50px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.number2{
+  float: left;
+  width: 20%;
+ 
+  margin-left: 10px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.number3{
+  float: left;
+
+ width: 20%;
+ margin-left:15px;
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.number4{
+  float: left;
+width: 20%;
+ 
+  margin-left: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+
+
+
+
+
+/* formmmmmmmm */
+
+
+
+.membership-form {
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 23px;
+  margin-top: 12%
+} 
+.membership-form .bosi{
+color: #654A55;
+font-size: 20px;
+}
+
+
+.form-group{
+
+ background-color:#F9FAFB;
+width: 896px;
+border-bottom:#F9FAFB ;
+border-top: #F9FAFB;
+margin:0 auto;
+margin-top: 5%;
+padding: 25px;
+border-radius: 16px;
+font-size: 16px;
+font-weight: 400;
+border-color:#F9FAFB ;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+ .name{
+  margin-top: 25px;
+ }
+
+.first-name{
+font-size: 20px;
+font-weight: 500;
+   width: 47%;
+    color: #101828;
+  text-align: left;
+  margin-right: 2%;
+float: left;
+
+}
+/* .first{
+  
+  margin-bottom: 15px;
+  margin-right: 80%;
+font-size: 18px;
+font-weight: 600;
+
+
+
+}
+.first2{
+margin-top: -7%;
+margin-left: 20%;
+ font-size: 18px;
+font-weight: 600;
+
+} */
+
+.last-name{
+ 
+ text-align: left;
+ width: 47%;
+float: left;
+ font-size: 18px;
+font-weight: 600;
+   
+    color: #101828;
+  
+
+}
+
+.first-input{
+    box-sizing: border-box;
+  border: grey solid 1px;
+
+width: 100%;
+padding: 20px;
+  border-radius: 10px;
+  border: grey solid 1px;
+overflow: hidden;
+
+}
+.last-input{
+box-sizing: border-box;
+overflow: hidden;
+
+width: 100%;
+
+  border: grey solid 1px;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+
+/* start email address */
+.email{
+float: left;
+margin-bottom:30%;
+margin-top: 5%;
+  border-color: #E5E7EC ;
+
+}
+.email2{
+  font-size: 18px;
+font-weight: 600;
+    margin-left: -24%;
+    color: #101828;
+}
+
+.email-input{
+  
+  width: 400%!important;
+}
+
+.email-input,
+.phone-input,
+.membership-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 10px;
+  /* width: full; */
+  overflow: hidden;
+  border: grey solid 1px;
+}
+
+/* start phone number */
+
+.phone2{
+margin-right: 85%;
+font-size: 18px;
+font-weight: 600;
+    flex-wrap: nowrap;
+    color: #101828;
+
+}
+
+.phone{
+  float: left;
+  margin-top: -25%;
+  width: 100% !important; 
+
+
+}
+.phone-input{
+
+margin-right: 70px;
+  width: 92%; }
+
+/* end phone number */
+
+
+
+/* membership type */
+.membership{
+  float: left;
+  margin-top: -12%;
+margin-left: -10px;
+}
+.membership-type{
+ 
+  font-size: 18px;
+font-weight: 600;
+    
+    color: #101828;
+margin-left: -80px;
+margin-top: 5%;
+}
+
+
+ .membership-input{
+
+   width: 292%;
+    
+margin-left: 10px;
+margin-bottom: 10%;
+margin-top: 10px;
+}
+ 
+
+
+
+
+.fitness-goals{
+  float: left;
+}
+
+
+.fitness{
+
+  font-size: 18px;
+font-weight: 600;
+    
+    color: #101828;
+margin-left: -85%;
+margin-top: 5px;
+}
+.fitness-inputs{
+  
+   width: 87%;
+   margin-right: 60px;
+    border-radius: 8px;
+overflow: hidden;
+  border: grey solid 1px;margin-right: 5%;
+padding: 30px;
+margin-bottom: 10%;
+}
+
+.button{
+  width:83% ;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: black;
+  color: white;
+  margin-top: -30%;
+  border-radius: 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.the-last{
+  font-size: 16px;
+  color: #654A55;
+  font-weight: 400;
+ 
+}
+
+
+.footer{
+  background-color: #101828;
+ height: 508.8px;
+
+width: 100%;
+margin-top: 10%;
+ padding: 24px 80px;
+ box-sizing: border-box; 
+
+ 
+}
+.container5{
+  width: 90%;
+   max-width: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.footer-info{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.footer-info .h3{
+  font-size: 30px;
+  color: white;
+}
+
+.paragraph5{
+  font-size:18px ;
+  font-weight: 400;
+  color: #AF99A1;
+}
+a {
+  text-decoration: none;
+}
+.facebook{
+  color: #AF99A1 ;
+
+}
+
+.instagram{
+ color: #AF99A1 ;
+ margin-left: 15px;
+}
+
+.twitter{
+   color: #AF99A1 ;
+   margin-left: 20px;
+}
+
+.links{
+ text-align: center;
+ float: right;
+ margin-top: -160px;
+margin-right: 40%;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: white;
+}
+
+.home{
+  float: right;
+  margin-top: -120px;
+margin-right: 45%;
+font-size: 16px;
+font-weight: 400;
+color: #AF99A1;
+font-family: Arial, Helvetica, sans-serif
+}
+
+.why-choose-us5{
+   float: right;
+  margin-top: -80px;
+margin-right: 39%;
+font-size: 16px;
+font-weight: 400;
+color: #AF99A1;
+font-family: Arial, Helvetica, sans-serif
+}
+
+.reviews5{
+
+  float: right;
+  margin-top: -40px;
+margin-right: 43.5%;
+font-size: 16px;
+font-weight: 400;
+color: #AF99A1;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.membership5{
+
+float: right;
+  margin-top: -5px;
+margin-right: 38%;
+font-size: 16px;
+font-weight: 400;
+color:#AF99A1;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.contact-info{
+  float: right;
+  margin-top:-17% ;
+margin-right: 5%;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+.contact-info2{
+  font-size: 20px;
+}
+.address5{
+  font: 12px;
+  font-weight: 100;
+
+}
+.address6{
+  font-size: 14px;
+  color: #AF99A1;
+  margin-top: 5%;
+}
+
+.phone3{
+  margin-top: 7%;
+ font: 12px;
+  font-weight: 100;
+}
+
+.phone4{
+   font-size: 14px;
+  color: #AF99A1;
+  margin-top: 5%;
+}
+
+.hours1{
+   margin-top: 7%;
+ font: 12px;
+  font-weight: 100;
+}
+.hours2{
+    font-size: 14px;
+  color: #AF99A1;
+  margin-top: 5%;
+}
+
+
+.copy-right{
+margin-top: 14%;
+border-top-style: solid;
+
+font-size: 14px;
+font-weight: 400;
+color: #AF99A1;
+}
+
+
+
+
+.item1{
+  font-size: 12px;
+  color: #AF99A1;
+margin-left: 60%;
+   font-weight: 400;
+ text-align: left;
+margin-bottom: 20px;
+}
+
+.item2{
+ font-size: 12px;
+  color: #AF99A1;
+ /* margin-bottom: 5px; */
+  font-weight: 400;
+margin-left: 70%;
+margin-top: 20% !important;
+
+}
+.item3{
+   font-size: 12px;
+  color: #AF99A1;
+
+   font-weight: 400;
+  margin-left: 90%;
+}
+
+@media (max-width: 768px) {
+
+  .hero_content,
+  .hero_image,
+  .card1,
+  .card2,
+  .card3,
+  .review-item,
+  .number1,
+  .number2,
+  .number3,
+  .number4 {
+    width: 100%;
+    float: none;
+    margin: 20px 0;
+  }
+
+  .form-group {
+    width: 100%;
+  }
+
+  .email-input,
+  .phone-input,
+  .membership-input,
+  .fitness-inputs {
+    width: 100%;
+    overflow: hidden;
+  }
+}
